@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/gesemaya/sniper/pkg/fsm-telebot/storages/file"
+	"github.com/gesemaya/tele/pkg/fsm-telebot/storages/file"
 )
 
 // JsonSettings configures json encoder and decoder.

@@ -9,7 +9,7 @@ import (
 
 	"github.com/rusq/dlog"
 
-	tb "github.com/gesemaya/sniper/pkg/telebot"
+	tb "github.com/gesemaya/tele/pkg/telebot"
 )
 
 const (

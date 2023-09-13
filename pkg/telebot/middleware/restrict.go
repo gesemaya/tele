@@ -1,6 +1,6 @@
 package middleware
 
-import tele "github.com/gesemaya/sniper/pkg/telebot"
+import tele "github.com/gesemaya/tele/pkg/telebot"
 
 // RestrictConfig defines config for Restrict middleware.
 type RestrictConfig struct {

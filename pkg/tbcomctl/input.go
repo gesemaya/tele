@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	tb "github.com/gesemaya/sniper/pkg/telebot"
+	tb "github.com/gesemaya/tele/pkg/telebot"
 )
 
 const retryDelay = 500 * time.Millisecond

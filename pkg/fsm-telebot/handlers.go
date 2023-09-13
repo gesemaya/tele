@@ -3,8 +3,8 @@ package fsm
 import (
 	"fmt"
 
-	"github.com/gesemaya/sniper/pkg/fsm-telebot/internal"
-	tele "github.com/gesemaya/sniper/pkg/telebot"
+	"github.com/gesemaya/tele/pkg/fsm-telebot/internal"
+	tele "github.com/gesemaya/tele/pkg/telebot"
 )
 
 // handlerStorage contains handlers group separated by endpoint.

@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	tb "github.com/gesemaya/sniper/pkg/telebot"
+	tb "github.com/gesemaya/tele/pkg/telebot"
 )
 
 // Message is the controller that sends a message.  It can be used to send a

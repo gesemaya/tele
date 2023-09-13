@@ -7,7 +7,7 @@ import (
 	"runtime/trace"
 	"strings"
 
-	tb "github.com/gesemaya/sniper/pkg/telebot"
+	tb "github.com/gesemaya/tele/pkg/telebot"
 )
 
 const (

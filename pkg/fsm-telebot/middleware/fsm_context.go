@@ -1,8 +1,8 @@
 package middleware
 
 import (
-	fsm "github.com/gesemaya/sniper/pkg/fsm-telebot"
-	tele "github.com/gesemaya/sniper/pkg/telebot"
+	fsm "github.com/gesemaya/tele/pkg/fsm-telebot"
+	tele "github.com/gesemaya/tele/pkg/telebot"
 )
 
 // ContextKey is key for telebot.Context storage what uses in middleware.

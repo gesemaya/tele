@@ -1,7 +1,7 @@
 package layout
 
 import (
-	tele "github.com/gesemaya/sniper/pkg/telebot"
+	tele "github.com/gesemaya/tele/pkg/telebot"
 )
 
 // LocaleFunc is the function used to fetch the locale of the recipient.

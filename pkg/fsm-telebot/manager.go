@@ -1,7 +1,7 @@
 package fsm
 
 import (
-	tele "github.com/gesemaya/sniper/pkg/telebot"
+	tele "github.com/gesemaya/tele/pkg/telebot"
 )
 
 // Handler is object for handling  updates with FSM FSMContext

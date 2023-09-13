@@ -3,7 +3,7 @@ package tbcomctl
 import (
 	"testing"
 
-	tb "github.com/gesemaya/sniper/pkg/telebot"
+	tb "github.com/gesemaya/tele/pkg/telebot"
 )
 
 func TestChatInfo(t *testing.T) {

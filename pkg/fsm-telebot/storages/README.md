@@ -18,7 +18,7 @@ Storage using _redis_ as backend. For storing data using _encoding/gob_.
 In this repository, you will find only the git submodule for the current repository.
 This is done so that there are no problems with addiction, although it currently exists.
 More details about this solution are written
-in [#5](https://github.com/gesemaya/sniper/pkg/fsm-telebot/pull/5#issuecomment-1666682226)
+in [#5](https://github.com/gesemaya/tele/pkg/fsm-telebot/pull/5#issuecomment-1666682226)
 
 **If you have issues or want to contribute go to base repository.**
 

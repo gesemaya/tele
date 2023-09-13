@@ -1,7 +1,7 @@
 package fsm
 
 import (
-	tele "github.com/gesemaya/sniper/pkg/telebot"
+	tele "github.com/gesemaya/tele/pkg/telebot"
 )
 
 // Context is wrapper for work with FSM from handlers and related to telebot.Context.

@@ -1,7 +1,7 @@
 package layout
 
 import (
-	tele "github.com/gesemaya/sniper/pkg/telebot"
+	tele "github.com/gesemaya/tele/pkg/telebot"
 )
 
 // DefaultLayout is a simplified layout instance with pre-defined locale by default.

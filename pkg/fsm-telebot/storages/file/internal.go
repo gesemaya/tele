@@ -3,7 +3,7 @@ package file
 import (
 	"reflect"
 
-	"github.com/gesemaya/sniper/pkg/fsm-telebot/storages"
+	"github.com/gesemaya/tele/pkg/fsm-telebot/storages"
 )
 
 func (r *record) updateData(key string, data any) {

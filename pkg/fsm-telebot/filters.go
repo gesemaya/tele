@@ -1,7 +1,7 @@
 package fsm
 
 import (
-	tele "github.com/gesemaya/sniper/pkg/telebot"
+	tele "github.com/gesemaya/tele/pkg/telebot"
 )
 
 // Filter object. Needs for graceful works with state filters.

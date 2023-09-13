@@ -1,7 +1,7 @@
 package tbcomctl
 
 import (
-	tb "github.com/gesemaya/sniper/pkg/telebot"
+	tb "github.com/gesemaya/tele/pkg/telebot"
 )
 
 // Form is an abstraction that presents controllers in a way of a form. It can be

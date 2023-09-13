@@ -5,10 +5,10 @@ import (
 	"context"
 	"crypto/sha1"
 	"fmt"
-	"github.com/gesemaya/sniper/pkg/tbcomctl/internal/registry"
+	"github.com/gesemaya/tele/pkg/tbcomctl/internal/registry"
 	"strconv"
 
-	tb "github.com/gesemaya/sniper/pkg/telebot"
+	tb "github.com/gesemaya/tele/pkg/telebot"
 	"golang.org/x/text/language"
 )
 

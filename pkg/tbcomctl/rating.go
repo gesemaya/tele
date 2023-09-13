@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	tb "github.com/gesemaya/sniper/pkg/telebot"
+	tb "github.com/gesemaya/tele/pkg/telebot"
 )
 
 // Rating is a struct for attaching post rating.

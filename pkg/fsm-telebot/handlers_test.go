@@ -3,7 +3,7 @@ package fsm
 import (
 	"testing"
 
-	"github.com/gesemaya/sniper/pkg/fsm-telebot/internal"
+	"github.com/gesemaya/tele/pkg/fsm-telebot/internal"
 	"github.com/stretchr/testify/assert"
 )
 

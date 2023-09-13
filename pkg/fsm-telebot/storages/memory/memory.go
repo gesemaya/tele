@@ -5,8 +5,7 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/gesemaya/sniper/pkg/fsm-telebot"
-	"github.com/gesemaya/sniper/pkg/fsm-telebot/storages"
+	"github.com/gesemaya/tele/pkg/fsm-telebot/storages"
 )
 
 type chatKey struct {

@@ -10,7 +10,7 @@ import (
 	"strings"
 	"text/template"
 
-	tele "github.com/gesemaya/sniper/pkg/telebot"
+	tele "github.com/gesemaya/tele/pkg/telebot"
 	"github.com/spf13/viper"
 )
 

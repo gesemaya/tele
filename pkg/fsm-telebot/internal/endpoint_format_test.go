@@ -3,7 +3,7 @@ package internal
 import (
 	"testing"
 
-	tele "github.com/gesemaya/sniper/pkg/telebot"
+	tele "github.com/gesemaya/tele/pkg/telebot"
 	"github.com/stretchr/testify/assert"
 )
 

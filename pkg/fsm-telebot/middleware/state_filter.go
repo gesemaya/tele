@@ -2,8 +2,8 @@
 package middleware
 
 import (
-	fsm "github.com/gesemaya/sniper/pkg/fsm-telebot"
-	tele "github.com/gesemaya/sniper/pkg/telebot"
+	fsm "github.com/gesemaya/tele/pkg/fsm-telebot"
+	tele "github.com/gesemaya/tele/pkg/telebot"
 )
 
 // StateFilterMiddleware is filter base on states. Recommended uses only in groups.

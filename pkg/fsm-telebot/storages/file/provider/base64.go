@@ -5,7 +5,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/gesemaya/sniper/pkg/fsm-telebot/storages/file"
+	"github.com/gesemaya/tele/pkg/fsm-telebot/storages/file"
 )
 
 // Base64 provides access to two encoded values.

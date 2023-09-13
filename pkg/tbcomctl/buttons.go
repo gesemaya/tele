@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strconv"
 
-	tb "github.com/gesemaya/sniper/pkg/telebot"
+	tb "github.com/gesemaya/tele/pkg/telebot"
 )
 
 // Button is the control button.

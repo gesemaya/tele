@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	tb "github.com/gesemaya/sniper/pkg/telebot"
+	tb "github.com/gesemaya/tele/pkg/telebot"
 )
 
 // SubChecker is controller to check the chat subscription.

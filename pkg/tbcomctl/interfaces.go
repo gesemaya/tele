@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 
-	tb "github.com/gesemaya/sniper/pkg/telebot"
+	tb "github.com/gesemaya/tele/pkg/telebot"
 )
 
 // Controller is the interface that some common controls implement. Controllers

@@ -1,7 +1,5 @@
 package file
 
-import "github.com/gesemaya/sniper/pkg/fsm-telebot"
-
 type (
 	// ChatsStorage in intermediate representation for data in Storage.
 	// This type using simple type for key.

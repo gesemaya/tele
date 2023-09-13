@@ -1,6 +1,6 @@
 package tbcomctl
 
-import tb "github.com/gesemaya/sniper/pkg/telebot"
+import tb "github.com/gesemaya/tele/pkg/telebot"
 
 type BtnLabel string
 

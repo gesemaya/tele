@@ -7,11 +7,8 @@ package file
 import (
 	"errors"
 	"fmt"
-	"github.com/gesemaya/sniper/pkg/fsm-telebot"
 	"io"
 	"sync"
-
-
 )
 
 type WriterFunc func() (io.WriteCloser, error)

@@ -7,7 +7,6 @@ import (
 	"encoding/gob"
 	"errors"
 	"fmt"
-	"github.com/gesemaya/sniper/pkg/fsm-telebot"
 	"github.com/redis/go-redis/v9"
 	"strings"
 	"time"

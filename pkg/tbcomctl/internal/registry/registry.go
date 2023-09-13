@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	tb "github.com/gesemaya/sniper/pkg/telebot"
+	tb "github.com/gesemaya/tele/pkg/telebot"
 	"github.com/google/uuid"
 )
 

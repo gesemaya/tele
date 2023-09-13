@@ -1,6 +1,6 @@
 package internal
 
-import tele "github.com/gesemaya/sniper/pkg/telebot"
+import tele "github.com/gesemaya/tele/pkg/telebot"
 
 func EndpointFormat(s string) string {
 	switch s[0] {

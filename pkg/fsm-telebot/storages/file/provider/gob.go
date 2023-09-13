@@ -5,7 +5,7 @@ import (
 	"encoding/gob"
 	"io"
 
-	"github.com/gesemaya/sniper/pkg/fsm-telebot/storages/file"
+	"github.com/gesemaya/tele/pkg/fsm-telebot/storages/file"
 )
 
 // Gob provides encoding/gob format.

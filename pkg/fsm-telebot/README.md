@@ -1,18 +1,18 @@
 # fsm-telebot
 
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/vitaliy-ukiru/fsm-telebot?style=flat-square)
-[![Go Reference](https://pkg.go.dev/badge/github.com/gesemaya/sniper/pkg/fsm-telebot.svg)](https://pkg.go.dev/github.com/gesemaya/sniper/pkg/fsm-telebot)
-[![Go](https://github.com/gesemaya/sniper/pkg/fsm-telebot/actions/workflows/go.yml/badge.svg?branch=master&style=flat-square)](https://github.com/gesemaya/sniper/pkg/fsm-telebot/actions/workflows/go.yml)
-[![golangci-lint](https://github.com/gesemaya/sniper/pkg/fsm-telebot/actions/workflows/golangci-lint.yml/badge.svg?branch=master)](https://github.com/gesemaya/sniper/pkg/fsm-telebot/actions/workflows/golangci-lint.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/gesemaya/tele/pkg/fsm-telebot.svg)](https://pkg.go.dev/github.com/gesemaya/tele/pkg/fsm-telebot)
+[![Go](https://github.com/gesemaya/tele/pkg/fsm-telebot/actions/workflows/go.yml/badge.svg?branch=master&style=flat-square)](https://github.com/gesemaya/tele/pkg/fsm-telebot/actions/workflows/go.yml)
+[![golangci-lint](https://github.com/gesemaya/tele/pkg/fsm-telebot/actions/workflows/golangci-lint.yml/badge.svg?branch=master)](https://github.com/gesemaya/tele/pkg/fsm-telebot/actions/workflows/golangci-lint.yml)
 
-Finite State Machine for [telebot](https://github.com/gesemaya/sniper). 
+Finite State Machine for [telebot](https://github.com/gesemaya/tele). 
 Based on [aiogram](https://github.com/aiogram/aiogram) FSM version.
 
 It not a full implementation FSM. It just states manager for telegram bots.
 
 ## Install:
 ```
-go get -u github.com/gesemaya/sniper/pkg/fsm-telebot@v1.2.0
+go get -u github.com/gesemaya/tele/pkg/fsm-telebot@v1.2.0
 ```
 
 
@@ -27,9 +27,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/gesemaya/sniper/pkg/fsm-telebot"
-	"github.com/gesemaya/sniper/pkg/fsm-telebot/storages/memory"
-	tele "github.com/gesemaya/sniper/pkg/telebot"
+	"github.com/gesemaya/tele/pkg/fsm-telebot"
+	"github.com/gesemaya/tele/pkg/fsm-telebot/storages/memory"
+	tele "github.com/gesemaya/tele/pkg/telebot"
 )
 
 func main() {

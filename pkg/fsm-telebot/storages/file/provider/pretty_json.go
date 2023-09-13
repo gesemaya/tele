@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/gesemaya/sniper/pkg/fsm-telebot/storages/file"
+	"github.com/gesemaya/tele/pkg/fsm-telebot/storages/file"
 )
 
 // PrettyJson provides json format with pretty encoding data values (file.Record Data fields).

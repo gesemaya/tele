@@ -4,7 +4,7 @@ import (
 	"crypto/rand"
 	"io"
 
-	tb "github.com/gesemaya/sniper/pkg/telebot"
+	tb "github.com/gesemaya/tele/pkg/telebot"
 	"golang.org/x/text/language"
 	"golang.org/x/text/message"
 )

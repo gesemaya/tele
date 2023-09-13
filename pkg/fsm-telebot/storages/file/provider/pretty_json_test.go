@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/gesemaya/sniper/pkg/fsm-telebot/storages/file"
+	"github.com/gesemaya/tele/pkg/fsm-telebot/storages/file"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	tb "github.com/gesemaya/sniper/pkg/telebot"
+	tb "github.com/gesemaya/tele/pkg/telebot"
 )
 
 // NewCalendar builds and returns a Calendar

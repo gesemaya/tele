@@ -3,7 +3,7 @@ package middleware
 import (
 	"errors"
 
-	tele "github.com/gesemaya/sniper/pkg/telebot"
+	tele "github.com/gesemaya/tele/pkg/telebot"
 )
 
 // AutoRespond returns a middleware that automatically responds
